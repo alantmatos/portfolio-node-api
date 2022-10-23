@@ -8,7 +8,13 @@
         "project_cover": "https://live.staticflickr.com/65535/52396662582_b043549ddc_b.jpg",
         "project_demo": "",
         "project_repo": "https://github.com/alantmatos/portfolio-frontend",
-        "project_images": []
+        "project_images": [
+            "https://live.staticflickr.com/65535/52447553502_9093351602_z.jpg",
+            "https://live.staticflickr.com/65535/52448077201_79338934f5_z.jpg",
+            "https://live.staticflickr.com/65535/52448348329_a9032e88f7_z.jpg",
+            "https://live.staticflickr.com/65535/52448589598_2d04764df9_z.jpg",
+            "https://live.staticflickr.com/65535/52448077146_c86e083a82_z.jpg"
+        ]
     },
     {
         "id": 2,
